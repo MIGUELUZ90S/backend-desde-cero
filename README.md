@@ -8,4 +8,4 @@ Semana 1:
 
 Objetivo:
 salir de cero 
-Aprendi comandos como touch, ls, pwd, clear cd(  / ~ .. ) cd tambien para entar a carpeta
+Aprendi comandos como touch, ls, pwd, clear cd(  / ~ .. ) cd tambien para entar a carpeta, dea 07/04/26
