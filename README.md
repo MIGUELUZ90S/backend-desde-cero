@@ -7,4 +7,5 @@ Semana 1:
 - carpeta de estudio creada
 
 Objetivo:
-salir de cero real
+salir de cero 
+Aprendi comandos como touch, ls, pwd, clear cd(  / ~ .. ) cd tambien para entar a carpeta
